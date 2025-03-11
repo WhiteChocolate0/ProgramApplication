@@ -8,4 +8,5 @@
 - [EX01_06_簡易購物車](https://colab.research.google.com/github/WhiteChocolate0/ProgramApplication/blob/main/EX01_06_%E7%B0%A1%E6%98%93%E8%B3%BC%E7%89%A9%E8%BB%8A.ipynb)
 - [EX01-07 美食資訊查詢](https://colab.research.google.com/drive/1uNiMRYHCrWaIPwgvkZfCLunC0OlHLye4?usp=sharing)
 
+### Web Crawler
 - [EX02-01 My Chatbot](https://colab.research.google.com/drive/1K25_Drn0jstpK1saeZ8VIgRFRfCQtJtC?usp=sharing)
