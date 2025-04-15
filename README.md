@@ -15,4 +15,4 @@
 - [EX02-04 Download Pokemon Images]
 - [EX02-05 PTT Gossiping]()
 - [EX02-06 開眼電影](https://colab.research.google.com/drive/1dgj0XOaEfZ73EWazcuwb7CsoThBB3yRl?usp=sharing)
-- [EX02-07 KKDay]
+- [EX02-07 KKDay](https://colab.research.google.com/drive/1wedEF7Gac2uCQKHoyTGRP1lmEsarmfDs?usp=sharing)
