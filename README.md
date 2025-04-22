@@ -18,6 +18,6 @@
 - [EX02-07 KKDay](https://colab.research.google.com/drive/1wedEF7Gac2uCQKHoyTGRP1lmEsarmfDs?usp=sharing)
 
 ### Data Analysis
-- [EX03-01 公司薪資概況Ⅰ]()
-- [EX03-02 公司薪資概況Ⅱ]()
+- [EX03-01 公司薪資概況Ⅰ](https://colab.research.google.com/drive/1-MA6O4AAIxQryyrDL2zI-yu2Qf7FZZJU?usp=sharing)
+- [EX03-02 公司薪資概況Ⅱ](https://colab.research.google.com/drive/1GYkZD6f67Ai_C-7dkN8gQpGHLq5eSpTT?usp=sharing)
 - [EX03-03 空氣品質指標(AQI)]()
