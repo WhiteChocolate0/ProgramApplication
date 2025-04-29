@@ -22,4 +22,4 @@
 - [EX03-02 公司薪資概況Ⅱ](https://colab.research.google.com/drive/1GYkZD6f67Ai_C-7dkN8gQpGHLq5eSpTT?usp=sharing)
 - [EX03-03 空氣品質指標(AQI)](https://colab.research.google.com/drive/1LpoC4-xZzYNslk-HCntz4Qb1jDCYCtD1?usp=sharing)
 - [EX03-04 薪情平台](https://colab.research.google.com/drive/1ZWyoXNhxpaEcrXLiqjZ9EkOzDOi1v2dN?usp=sharing)
-- [EX03-05)](https://colab.research.google.com/drive/1TIzFZkJ1X5s0OkPutCXqW93sLKYoUMWI?usp=sharing)
+- [EX03-05 台灣股票市場個股每日成交資訊](https://colab.research.google.com/drive/1TIzFZkJ1X5s0OkPutCXqW93sLKYoUMWI?usp=sharing)
