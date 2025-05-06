@@ -25,3 +25,7 @@
 - [EX03-05 台灣股票市場個股每日成交資訊](https://colab.research.google.com/drive/1TIzFZkJ1X5s0OkPutCXqW93sLKYoUMWI?usp=sharing)
 - [EX03-06 出生人口數](https://colab.research.google.com/drive/1neTEtx63w_yj_KSrWehBD2O_vQ5wcKKu?usp=sharing)
 - [EX03-07 Tips](https://colab.research.google.com/drive/1TF_5jf36hftBqlZbpJi5SGX0uAtLfS2u?usp=sharing)
+
+### Web API
+- [EX05-01 Echo Bot](https://colab.research.google.com/drive/1VIg8gOV86_En4ypyvkyOj-b_D_R-jCae?usp=sharing)
+- [EX05-02 Ask Gemini](https://colab.research.google.com/drive/1cZqaS00Mg5jIlJMxjHrPkw6p4HeZ3o5v?usp=sharing)
