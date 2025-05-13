@@ -29,3 +29,5 @@
 ### Web API
 - [EX05-01 Echo Bot](https://colab.research.google.com/drive/1VIg8gOV86_En4ypyvkyOj-b_D_R-jCae?usp=sharing)
 - [EX05-02 Ask Gemini](https://colab.research.google.com/drive/1cZqaS00Mg5jIlJMxjHrPkw6p4HeZ3o5v?usp=sharing)
+- [EX05-03 Reply Multi-type Messages](https://colab.research.google.com/drive/1I9Ktm_0MwhXC5HBmYunYzmylEhmWszME?usp=sharing)
+- [EX05-04 Reply Template Messages](https://colab.research.google.com/drive/13fYuyyrT82p4WjSEA5ULCOF-eVhC3jqH?usp=sharing)
