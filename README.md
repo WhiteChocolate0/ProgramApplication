@@ -31,3 +31,4 @@
 - [EX05-02 Ask Gemini](https://colab.research.google.com/drive/1cZqaS00Mg5jIlJMxjHrPkw6p4HeZ3o5v?usp=sharing)
 - [EX05-03 Reply Multi-type Messages](https://colab.research.google.com/drive/1I9Ktm_0MwhXC5HBmYunYzmylEhmWszME?usp=sharing)
 - [EX05-04 Reply Template Messages](https://colab.research.google.com/drive/13fYuyyrT82p4WjSEA5ULCOF-eVhC3jqH?usp=sharing)
+- [EX05-05 Rich Menu](https://colab.research.google.com/drive/1lyBJGwaoQO_da02HDIY0SMyvmQgSnGre?usp=sharing)
