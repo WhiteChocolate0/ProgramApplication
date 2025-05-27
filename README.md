@@ -27,7 +27,7 @@
 - [EX03-07 Tips](https://colab.research.google.com/drive/1TF_5jf36hftBqlZbpJi5SGX0uAtLfS2u?usp=sharing)
 
 ### Machine Learning
-- [EX04-01 汽車車型數值資料轉換]()
+- [EX04-01 汽車車型數值資料轉換](https://colab.research.google.com/drive/19X0_Ev9ghLwk_TILJzd4pap8bM_HS-HX?usp=sharing)
 - [EX04-02 客戶基本資料編碼]()
 - [EX04-03 客戶分群]()
 - [EX04-04 加州房價]()
