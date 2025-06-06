@@ -10,10 +10,10 @@
 
 ### Web Crawler
 - [EX02-01 My Chatbot](https://colab.research.google.com/drive/1K25_Drn0jstpK1saeZ8VIgRFRfCQtJtC?usp=sharing)
-- [EX02-02 高雄紅橘線捷運車站位置查詢]()
-- [EX02-03 Yahoo 新聞儲存 Google 試算表]()
-- [EX02-04 Download Pokemon Images]()
-- [EX02-05 PTT Gossiping]()
+- [EX02-02 高雄紅橘線捷運車站位置查詢](https://colab.research.google.com/drive/1r6kLxc2rsIbWrlfPj2w4cM3Azu6Fz5ie?usp=sharing)
+- [EX02-03 Yahoo 新聞儲存 Google 試算表](https://colab.research.google.com/drive/1Z_5ItX1PwI_ifLBVM0l165Mx5MjBmdZ8?usp=sharing)
+- [EX02-04 Download Pokemon Images](https://colab.research.google.com/drive/1QhsB9FKGNY8FSkQ3D8Vjn5EH0yfGQhlC?usp=sharing)
+- [EX02-05 PTT Gossiping](https://colab.research.google.com/drive/1Cmn2FXy0jUuPgmImMucRaW8ISadcg2Z_?usp=sharing)
 - [EX02-06 開眼電影](https://colab.research.google.com/drive/1dgj0XOaEfZ73EWazcuwb7CsoThBB3yRl?usp=sharing)
 - [EX02-07 KKDay](https://colab.research.google.com/drive/1wedEF7Gac2uCQKHoyTGRP1lmEsarmfDs?usp=sharing)
 
@@ -32,7 +32,7 @@
 - [EX04-03 客戶分群](https://colab.research.google.com/drive/1CzdH52vQ86NejU6MEVrr200n-D1jAyS_?usp=sharing)
 - [EX04-04 加州房價](https://colab.research.google.com/drive/1p_ASHuUOrYzskKWQF5CKEtG26Ib70rSk?usp=sharing)
 - [EX04-05 辨識鳶尾花](https://colab.research.google.com/drive/1-Vc_mnZF08So0pFOvrpIGT7EiSuHf3y1?usp=sharing)
-- [EX04-06 ET Today 新聞標題分類]()
+- [EX04-06 ET Today 新聞標題分類](https://colab.research.google.com/drive/12rMznNcLiEMzWJ31lJS_bs0KuY7raOMm?usp=sharing)
 
 ### Web API
 - [EX05-01 Echo Bot](https://colab.research.google.com/drive/1VIg8gOV86_En4ypyvkyOj-b_D_R-jCae?usp=sharing)
