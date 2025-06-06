@@ -31,7 +31,7 @@
 - [EX04-02 客戶基本資料編碼](https://colab.research.google.com/drive/1Pyo1k2g2qyNxcMs-dYz6KgpGMuPHTvXT?usp=sharing)
 - [EX04-03 客戶分群](https://colab.research.google.com/drive/1CzdH52vQ86NejU6MEVrr200n-D1jAyS_?usp=sharing)
 - [EX04-04 加州房價](https://colab.research.google.com/drive/1p_ASHuUOrYzskKWQF5CKEtG26Ib70rSk?usp=sharing)
-- [EX04-05 辨識鳶尾花]()
+- [EX04-05 辨識鳶尾花](https://colab.research.google.com/drive/1-Vc_mnZF08So0pFOvrpIGT7EiSuHf3y1?usp=sharing)
 - [EX04-06 ET Today 新聞標題分類]()
 
 ### Web API
